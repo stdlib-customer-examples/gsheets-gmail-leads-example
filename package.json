@@ -1,0 +1,7 @@
+{
+  "name": "keith/scheduler-project",
+  "author": "keith",
+  "dependencies": {
+    "lib": "latest"
+  }
+}

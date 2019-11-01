@@ -1,0 +1,17 @@
+{
+  "name": "keith/scheduler-project",
+  "timeout": 20000,
+  "version": "0.0.0",
+  "description": "",
+  "events": [
+    {
+      "scheduler.daily": {
+        "filename": "events/scheduler/daily",
+        "subtype": {
+          "time": "08:00",
+          "offset": "UTC-0:00 (GMT, London, Accra)"
+        }
+      }
+    }
+  ]
+}
